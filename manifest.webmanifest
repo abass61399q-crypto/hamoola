@@ -1,0 +1,10 @@
+{
+  "name": "حمولة HAMOOLA",
+  "short_name": "حمولة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#123c2d",
+  "lang": "ar",
+  "dir": "rtl"
+}
